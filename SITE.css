@@ -186,7 +186,7 @@ section{
   min-height: 100vh;
   display: flex;
   align-items: center;
-  background: url("C:/Users/hp/Desktop/PROJECTS/RESTURANT-WEBSITE/images/home-img.jpeg") no-repeat;
+  background: url("./images/home-img.jpeg") no-repeat;
   background-size: cover;
   background-position: center;
 }
